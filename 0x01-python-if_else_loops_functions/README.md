@@ -25,10 +25,10 @@
 - Don’t forget to push your header file
 - All your header files should be include guarded
 ## Technologies
-1 Shell Scripts are written in Bash 4.3.11(1)
-2 Python Scripts are written with Python 3.4.3
-3 C files are compiled using gcc 4.8.4
-4 Tested on Ubuntu 14.04 LTS
+- Shell Scripts are written in Bash 4.3.11(1)
+- Python Scripts are written with Python 3.4.3
+- C files are compiled using gcc 4.8.4
+- Tested on Ubuntu 14.04 LTS
 ## Files
 |Filename|Description|
 |--------|-----------|
