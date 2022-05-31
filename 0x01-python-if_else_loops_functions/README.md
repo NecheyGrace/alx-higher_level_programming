@@ -1,6 +1,7 @@
 # 0x01. Python - if/else, loops, functions
 
-https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/233/code.png
+![image](https://user-images.githubusercontent.com/37805319/171277344-708f7bf0-8b30-4aef-83d2-39c5803cbbaf.png)
+
 
 ## Requirements
 ## Python Scripts
