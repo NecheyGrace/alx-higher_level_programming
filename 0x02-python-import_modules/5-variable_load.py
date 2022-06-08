@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    from variable_load_5 import a
-    print(a)
-    
+    import sys
+    result = 0
+    for arg in sys.argv:
+        if arg != sys.argv[0]:
+            result += int(arg)
+    print(result)
